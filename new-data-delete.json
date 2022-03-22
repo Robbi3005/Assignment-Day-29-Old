@@ -1,13 +1,5 @@
 [
   {
-    "id": 1,
-    "petId": 1,
-    "quantity": 10,
-    "shipDate": "2022-5-22T08:59:54.462Z",
-    "status": "placed",
-    "complete": false
-  },
-  {
     "id": 2,
     "petId": 2,
     "quantity": 10,
